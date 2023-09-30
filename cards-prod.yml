@@ -1,7 +1,7 @@
 build:
   version: "1.0"
   
-accounts:
+cards:
   message: "Welcome to GIT Yesbank Cards realted Prod APIs"
   contactDetails:
     name: "Pravin Mishra Product Cards Owner"
