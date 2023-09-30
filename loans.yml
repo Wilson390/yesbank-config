@@ -5,7 +5,7 @@ loans:
   message: "Welcome to GIT Yesbank Loans realted local APIs"
   contactDetails:
     name: "Raju Mishra"
-    email: "18a4314ae721fa055a8d0033d62bfb583e1e2f02de24616ee56a18ff2b950e5464ed3df2f4c0b74ee716a675dcac23da"
+    email: "{cipher}18a4314ae721fa055a8d0033d62bfb583e1e2f02de24616ee56a18ff2b950e5464ed3df2f4c0b74ee716a675dcac23da"
   onCallSupport:
     - 999999993
     - 888888883
