@@ -1,7 +1,7 @@
 build:
   version: "2.0"
   
-accounts:
+loans:
   message: "Welcome to GIT Yesbank Loans related QA APIs"
   contactDetails:
     name: "Kiran Mishra QA Loans Lead"
