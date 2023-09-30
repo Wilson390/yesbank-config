@@ -2,7 +2,7 @@ build:
   version: "1.0"
   
 loans:
-  message: "GIT Yesbank Loans realted production APIs"
+  message: "GIT Yesbank Loans realted prod APIs"
   contactDetails:
     name: "Pravin Mishra Product Loans Owner"
     email: "{cipher}9b3b4814cb5226c3790bd80b9baca294df5a733b1211b3396c2aa3278ac62399256a43a000c0cab030c29f27fae2d6ae"
