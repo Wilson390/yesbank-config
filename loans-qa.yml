@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+  
+accounts:
+  message: "Welcome to GIT Yesbank Loans related QA APIs"
+  contactDetails:
+    name: "Kiran Mishra QA Loans Lead"
+    email: "kiran.m@gmail.com"
+  onCallSupport:
+    - 999999992
+    - 888888882

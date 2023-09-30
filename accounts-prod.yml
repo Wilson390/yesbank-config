@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+  
+accounts:
+  message: "Welcome to GIT Yesbank Accounts realted Prod APIs"
+  contactDetails:
+    name: "Pravin Mishra Product Owner"
+    email: "pravin.m@gmail.com"
+  onCallSupport:
+    - 999999991
+    - 888888881

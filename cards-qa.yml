@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+  
+accounts:
+  message: "Welcome to GIT Yesbank Cards realted QA APIs"
+  contactDetails:
+    name: "Kiran Mishra QA Cards Lead"
+    email: "kiran.m@gmail.com"
+  onCallSupport:
+    - 999999992
+    - 888888882

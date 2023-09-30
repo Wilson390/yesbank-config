@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+  
+accounts:
+  message: "Welcome to GIT Yesbank Accounts realted local APIs"
+  contactDetails:
+    name: "Raju Mishra"
+    email: "raju.m@gmail.com"
+  onCallSupport:
+    - 999999993
+    - 888888883

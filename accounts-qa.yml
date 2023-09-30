@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+  
+accounts:
+  message: "Welcome to GIT Yesbank Accounts realted QA APIs"
+  contactDetails:
+    name: "Kiran Mishra QA Accounts Lead"
+    email: "kiran.m@gmail.com"
+  onCallSupport:
+    - 999999992
+    - 888888882
