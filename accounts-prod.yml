@@ -2,7 +2,7 @@ build:
   version: "1.0"
   
 accounts:
-  message: "GIT Yesbank Accounts related prod1 webhook APIs"
+  message: "GIT Yesbank Accounts related production1 webhook1 APIs"
   contactDetails:
     name: "Pravin Mishra Product Owner"
     email: "pravin.m@gmail.com"
