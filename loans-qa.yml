@@ -2,9 +2,9 @@ build:
   version: "2.0"
   
 loans:
-  message: "Welcome to GIT Yesbank Loans related UAT APIs"
+  message: "Welcome to GIT Yesbank Loans related QA APIs"
   contactDetails:
-    name: "Kiran Mishra UAT Loans Lead"
+    name: "Kiran Mishra QA Loans Lead"
     email: "{cipher}aaba98d83a745e819465ac915d8afca02be5e89ff801086aa7fc5377ff81a0760988615dadc716bed7ae7c2a72b22160"
   onCallSupport:
     - 999999992
