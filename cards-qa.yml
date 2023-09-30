@@ -1,7 +1,7 @@
 build:
   version: "2.0"
   
-accounts:
+cards:
   message: "Welcome to GIT Yesbank Cards realted QA APIs"
   contactDetails:
     name: "Kiran Mishra QA Cards Lead"
