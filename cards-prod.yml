@@ -2,7 +2,7 @@ build:
   version: "1.0"
   
 cards:
-  message: "Welcome to GIT Yesbank Cards realted Prod APIs"
+  message: "GIT Yesbank Cards realted production APIs"
   contactDetails:
     name: "Pravin Mishra Product Cards Owner"
     email: "pravin.m@gmail.com"
