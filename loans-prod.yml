@@ -5,7 +5,7 @@ loans:
   message: "Welcome to GIT Yesbank Loans realted Prod APIs"
   contactDetails:
     name: "Pravin Mishra Product Loans Owner"
-    email: "9b3b4814cb5226c3790bd80b9baca294df5a733b1211b3396c2aa3278ac62399256a43a000c0cab030c29f27fae2d6ae"
+    email: "{cipher}9b3b4814cb5226c3790bd80b9baca294df5a733b1211b3396c2aa3278ac62399256a43a000c0cab030c29f27fae2d6ae"
   onCallSupport:
     - 999999991
     - 888888881
